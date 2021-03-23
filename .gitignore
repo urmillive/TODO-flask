@@ -1,4 +1,6 @@
-vscode
-.idea
 __pycache__
-venv
+.vscode
+.idea
+/venv
+Procfile
+
